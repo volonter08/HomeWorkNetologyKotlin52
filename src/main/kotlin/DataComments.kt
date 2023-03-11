@@ -1,0 +1,1 @@
+data class DataComments(val count:Int, val canPost:Boolean = true, val canOpen:Boolean = true, val canClose:Boolean = true)
